@@ -1,8 +1,8 @@
 # 🌍 Global Insight Dashboard
 
-Global Insight Dashboard is a Python Streamlit application that lets users explore country-level information, live weather conditions, map-based location context, and recent news in one interactive dashboard.
+Global Insight Dashboard is a Python Streamlit application that lets users explore country-level information, compare two countries side by side, view live weather conditions, interact with map-based location context, and browse recent news in one interactive dashboard.
 
-It was built to combine real-world API integration, clean dashboard design, and practical data presentation in a portfolio-ready project.
+This project combines multiple real-world APIs into a polished interactive dashboard where users can search for a country, compare two countries side by side, monitor live weather, explore map context, and track country-related news.
 
 ---
 
@@ -25,9 +25,12 @@ It was built to combine real-world API integration, clean dashboard design, and 
 
 Main dashboard includes:
 
+- single-country search mode
+- country comparison mode
+- favorites overview
 - search bar with suggestions
-- quick insights panel
-- country information card
+- quick insights panels
+- country information cards
 - interactive map
 - neighboring countries
 - weather details and metrics
